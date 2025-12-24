@@ -14,6 +14,8 @@ Starting a nonprofit organization in California requires careful planning, legal
 
 A nonprofit organization is a tax-exempt entity formed for charitable, educational, religious, scientific, or other purposes that benefit the public. Unlike for-profit businesses, nonprofits cannot distribute profits to shareholders or owners. Instead, any surplus funds must be reinvested into the organization's mission.
 
+![Image](/assets/img/blogs/nonprofit_in_california.jpg)
+
 ### Types of Nonprofit Organizations
 
 California recognizes several types of nonprofit entities:
