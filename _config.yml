@@ -124,5 +124,5 @@ pagination:
 
 # _config.yml
 toc:
-  min_level: 3 # default: 1
+  min_level: 2 # default: 1
   max_level: 3 # default: 6
