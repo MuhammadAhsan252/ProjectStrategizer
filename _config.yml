@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Philaware
-email: philanware@gmail.com
+title: Project Strategizer
+email: ahsanakbar255@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Philaware — Purpose-Built Software for Nonprofits.
+  Technical Leadership for Growing Teams
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.philanware.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.projectstrategy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-logo: /assets/img/philanware_logo.png
+logo: /assets/img/project_strategizer_logo.png
 
 # Build settings
 theme: minima
